@@ -1,16 +1,18 @@
-id: e057f99f-c313-4eb6-8bda-e7af10c35fe3
 name: bedtimestory
-description: "Magical personalized bedtime stories for children"
+project_scope: main
+project_type: standalone
+description: Magical personalized bedtime stories for children
 tier: prototype
 lane: side-projects
 priority: low
-category: lifestyle
-focus: false
-open_tasks: 0
 oss: false
 stack: [typescript, react, convex, vite]
-repo: https://github.com/mxn2020/bedtimestory
+repo: "https://github.com/mxn2020/bedtimestory"
 deploy_url: null
 last_active: 2026-03-02
-tags: [ai, convex]
-notes:
+tags: [ai, convex, stories, children, bedtime, creative, personalized]
+notes: null
+category: webapp
+focus: false
+open_tasks: 0
+id: e057f99f-c313-4eb6-8bda-e7af10c35fe3
